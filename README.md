@@ -1,6 +1,9 @@
 # utl-Interesting-property-of-sas-dosubl
 Interesting property of sas dosubl 
     %let pgm=utl-Interesting-property-of-sas-dosubl;
+    
+    github
+    https://github.com/rogerjdeangelis/utl-Interesting-property-of-sas-dosubl
 
     Interesting property of sas dosubl
 
