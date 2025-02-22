@@ -2,6 +2,9 @@
 
 Interesting property of sas dosubl
 
+github
+https://github.com/rogerjdeangelis/utl-Interesting-property-of-sas-dosubl
+
 If you call &sysfunc dosubl inside a macro the
 a dosubl datastep code will not
 apprear in the resolved macro.
